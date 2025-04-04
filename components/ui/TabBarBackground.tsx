@@ -1,6 +1,5 @@
-/* export default undefined;
+export default undefined;
 
 export function useBottomTabOverflow() {
   return 0;
 }
- */
